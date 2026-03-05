@@ -34,14 +34,5 @@ All repositories in `prom-robotics` are **private** and intended **only for empl
 
 ### Access and Permissions
 
-Access to `prom-robotics` repositories is restricted:
-
-- **Who can get access**:  
-  Only employees of **Отдел разработки технологических решений**.
-
-- **How to request access**:  
-  Contact one of the following within the department:
-  - **Artem Bulgakov**
-  - **Ruslan Belkov**
-
-They handle repository and team permissions inside the `prom-robotics` organization.
+Access to `prom-robotics` repositories is restricted: Only employees of **Отдел разработки технологических решений** can get access.
+In order to get access, contact one of the following within the department: **Artem Bulgakov** or **Ruslan Belkov**, they handle repository and team permissions inside the `prom-robotics` organization.
